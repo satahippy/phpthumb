@@ -1,0 +1,8 @@
+{
+	"name": "sata/phpthumb",
+	"autoload": {
+		"psr-0": {
+			"Sata\\PhpThumb": "lib/"
+		}
+	}
+}
