@@ -1,5 +1,9 @@
 {
 	"name": "sata/phpthumb",
+	"type": "library",
+	"license": "MIT",
+	"description": "PhpThumb Library + Helper",
+	"keywords": ["image", "thumb"],
 	"autoload": {
 		"psr-0": {
 			"Sata\\PhpThumb": "lib/"
